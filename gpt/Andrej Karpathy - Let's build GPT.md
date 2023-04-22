@@ -3,7 +3,7 @@
 ### 22 April 2023
 
 📒 Resources - 
-+ [Attention is all you need](https://arxiv.org/abs/1706.03762) - 
++ [Attention is all you need](https://arxiv.org/abs/1706.03762)
 + Tokenizers
 	1. SentencePiece by Google
 	2. Tiktoken by OpenAI
